@@ -1,17 +1,18 @@
 Hi 👋 My name is Dev Kashyap
 ============================
 
-Business Analyst
+Consultant II (Lead Assistant Manager)
 ----------------
 
-* Experienced Business Analyst with a demonstrated history of working in Data Science and Analytics.
-* Skilled in Statistics, Python, Data Analysis, SQL, Machine Learning, and Microsoft Excel.
-* A beginner in Deep Learning and NLP. Strong research professional with a Master's degree focused in Operational Research from the University of Delhi.
-* I have in-depth knowledge of Statistics and Statistical Analysis.
+* Experienced Consultant with a demonstrated history of working in Data Science, Analytics and AI.
+* Skilled in Python, Machine Learning, Deep Learning, model development, Statistics, SQL, Data Analytics, Data Visualization and Microsoft Excel supported by a solid foundation in applied Data Science & AI, stakeholder collaboration and problem solving.
+* Proven expertise in solving complex business use cases for leading North American banking institutions by extracting insights, delivering intelligent and data-driven strategies. 
+* Strong research professional with a Master's degree focused in Operational Research from the University of Delhi, India.
+* Committed to continuous learning and staying at the forefront of Data Science & Analytics for maximum impact
 
 *   🌍  I'm based in New Delhi, India
 *   ✉️  You can contact me at [kashyapdev345@gmail.com](mailto:kashyapdev345@gmail.com)
-*   🧠  I'm learning Deep Learning
+*   🧠  I'm continuously learning about Data Science and AI.
 *   ⚡  I am very much interested in Sports and especially Football. I support F.C. Barcelona.
 
 ### Skills<p align="left">
