@@ -33,6 +33,6 @@ Consultant II (Lead Assistant Manager)
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://logo.svgcdn.com/l/seaborn-icon.png" width="36" height="36" alt="Seaborn" /></a>
                     
 ### Socials<p align="left">
-<a href="https://www.linkedin.com/in/devkumarkashyap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/devkumarkashyap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="mailto:kashyapdev345@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/gmail-new.png" width="34" height="34" alt="Gmail" /></a>
 <a href="https://www.github.com/Dev-Kashyap" target="_blank" rel="noreferrer" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
